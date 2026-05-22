@@ -5,6 +5,7 @@ st.title("O QUE O SEU TÊNIS ADIDAS DIZ SOBRE VOCÊ?")
 st.markdown("##### Descubra a personalidade de cada modelo e veja qual combina mais com você!")
 st.markdown("##### Passo 1: Veja todos os modelos de tênis Adidas!")
 st.markdown("##### Passo 2: Descubra o seu no final da página!")
+st.markdown("##### Passo 3: Compre o que mais combina com você (ou o que mais gostou)!")
 
 st.markdown("## MODELOS ADIDAS")
 
